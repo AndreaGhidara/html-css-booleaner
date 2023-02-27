@@ -1,0 +1,20 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-image: url(../img/pattern.png);
+    background-color: #4ea0ff;
+    background-position: 7% 22%;
+    height: 100px;
+    position: relative;
+}
+
+.img_logo{
+    width: 150px;
+    position: absolute;
+    bottom: 0;
+    left: 5px;
+}
