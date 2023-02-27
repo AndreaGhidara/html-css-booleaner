@@ -18,3 +18,22 @@ header{
     bottom: 0;
     left: 5px;
 }
+
+/* MAIN */
+
+.intestazione{
+    margin:10px 0px 10px 20px;
+}
+
+.autor{
+    color:#2abaf8;
+    font-weight: 600;
+}
+
+.write_by{
+    margin-top: 10px;
+}
+
+.small_text{
+    font-size: small;
+}
