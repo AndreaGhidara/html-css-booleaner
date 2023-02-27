@@ -99,4 +99,37 @@ td{
     background-color: white;
 }
 
+/* Footer */
 
+/* Footer */
+footer{
+    margin:0px 0px 20px 10px;
+}
+.text_ft{
+    color: gray;
+    font-weight: 600;
+}
+
+.div1{
+    width:312px;
+    height:208px;
+    background-image: url(../img/monitor.jpg);
+    color: white;
+    margin-bottom: 10px;
+}
+
+.div2{
+    width:312px;
+    height:208px;
+    background-image: url(../img/graph.jpg);
+    color: white;
+}
+
+.text_ft{
+    margin-bottom: 5px;
+}
+
+.text_img{
+    padding: 20px;
+    
+}
