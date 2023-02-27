@@ -49,14 +49,48 @@ section.intestazione > p.small_text{
 }
 
 /* testo */
-
 .testo{
     margin-top:10px;
 }
 
 /* list  */
-
-
 .lista{
     margin:10px 0px 0px 20px;
+}
+
+/* Table */
+
+table{
+    border: none;
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 20px;
+}
+
+
+th{
+    text-align: start;
+    background-color: #4ea0ff;
+    color: white; 
+}
+
+tr{
+    text-align: start;
+}
+
+
+tbody{
+    width: 100px;
+    background-color: #b1e5f2;
+}
+
+td{
+    width: 0px;
+    padding: 10px 0 ;
+    font-weight: 600;
+
+}
+
+.bg_white{
+    background-color: white;
 }
