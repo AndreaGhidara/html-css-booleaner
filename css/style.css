@@ -50,7 +50,11 @@ section.intestazione > p.small_text{
 
 /* testo */
 .testo{
-    margin-top:10px;
+    margin-top:20px;
+}
+
+.marker{
+    background-color: yellow;
 }
 
 /* list  */
@@ -94,3 +98,5 @@ td{
 .bg_white{
     background-color: white;
 }
+
+
